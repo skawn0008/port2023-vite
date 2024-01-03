@@ -36,4 +36,4 @@ export default {
     build: {
     outDir: "../public",
     },
-};
+};"Test git commit, Thanks" 
